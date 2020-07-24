@@ -1,4 +1,4 @@
-# Machine Learning course on Educative, powered by Adapt
+# Machine Learning course on Educative, powered by AdaptiLab
 
 # 1.  Intro
 
